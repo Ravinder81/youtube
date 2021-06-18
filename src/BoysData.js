@@ -43,11 +43,11 @@ const BoysData = () => {
       
 
       <div class="social-links">
-        <a href="https://www.facebook.com/ravindra.thapliyal.16 " target="_blank"><i class="fab fa-facebook-f"></i></a>
-        <a href="https://www.instagram.com/mr.thapliyal/"target="_blank"><i class="fab fa-instagram"></i></a>
         <a href="https://twitter.com/RavinderThapli4"target="_blank"><i class="fab fa-twitter"></i></a>
-        {/* <a href=""><i class="fab fa-github"></i></a> */}
+        <a href="https://www.instagram.com/mr.thapliyal/"target="_blank"><i class="fab fa-instagram"></i></a>
         <a href="https://www.linkedin.com/in/%E2%AD%90-ravindra-thapliyal-19b761120/"target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://www.facebook.com/ravindra.thapliyal.16 " target="_blank"><i class="fab fa-facebook-f"></i></a>
+        
       </div>
     </div>
   </div>
